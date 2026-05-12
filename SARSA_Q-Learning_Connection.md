@@ -74,10 +74,10 @@ in epsilon-greedy action selection.
 
 Then the selected action $a'$ always satisfies:
 
-$
+$$
 Q(s',a')=Q(s', \arg\max_a Q(s',a))
 =\max_a Q(s',a)
-$
+$$
 
 ---
 
